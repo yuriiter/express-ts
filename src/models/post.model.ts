@@ -1,5 +1,4 @@
 import { model, Schema } from "mongoose";
-import User from "./user.model";
 
 const postSchema = new Schema({
   name: {
